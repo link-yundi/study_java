@@ -1,4 +1,4 @@
-package ch08.encapsulation;
+package ch09.encapsulation;
 
 /*
 封装、继承、多态
